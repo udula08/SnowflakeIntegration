@@ -17,7 +17,7 @@
 
 ## More on snowflake
 
-Below codes can be used to find details of the current user.
+- Below codes can be used to find details of the current user.
 
 ```sql
 select current_user();
@@ -33,4 +33,4 @@ show grants to role your_role_name;
 
 ## Challenges
 
-1. Unable to do the task locally due to below error. 'wsarecv: An existing connection was forcibly closed by the remote'.
+- Unable to do the task locally due to below error. 'wsarecv: An existing connection was forcibly closed by the remote'.
